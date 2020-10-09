@@ -9,6 +9,8 @@ This is a summary for first iteration
 ## Vision文档
 [vision 文档](vision文档.docx)
 ## 用例模型
+[用例模型](小箱交.oom)
+[用例模型截图](小箱交(用例图).jpg)
 
 ## 软件需求规约
 [软件需求规约](软件需求规约.docx)
